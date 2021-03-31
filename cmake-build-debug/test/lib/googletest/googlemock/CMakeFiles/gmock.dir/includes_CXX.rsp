@@ -1,0 +1,1 @@
+-IF:/Clion/test/lib/googletest/googlemock/include -IF:/Clion/test/lib/googletest/googlemock -isystem F:/Clion/test/lib/googletest/googletest/include -isystem F:/Clion/test/lib/googletest/googletest 

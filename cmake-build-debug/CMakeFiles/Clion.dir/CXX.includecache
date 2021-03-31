@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Clion/src/Base64.cpp
+Base64.h
+F:/Clion/src/Base64.h
+stdexcept
+-
+
+F:/Clion/src/Base64.h
+string
+-
+
